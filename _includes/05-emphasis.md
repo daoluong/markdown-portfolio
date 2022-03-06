@@ -1,1 +1,1 @@
-_this is __bold italic__ 🍕 _
+_this is **bold italic** 🍕_
